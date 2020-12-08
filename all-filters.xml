@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001569320884400*0915766486934323730,z0000001569320938553*3348559597299581821,z0000001597393704053*6485893095808178193,z0000001607406894861*7854953547807540647,z0000001607407286435*6820736799012539508,z0000001607407399862*2009756958626300647,z0000001607407665724*7094986052607671364,z0000001607408276274*9165860875859760860,z0000001607410201717*2866611756072777056</id>
+	<updated>2020-12-08T07:04:09Z</updated>
+	<author>
+		<name>Mihir Chaturvedi</name>
+		<email>mihir19061@iiitd.ac.in</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001569320884400*0915766486934323730</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='from' value='classroom.google.com'/>
+		<apps:property name='subject' value='New material:'/>
+		<apps:property name='doesNotHaveTheWord' value='quiz, assignment, exam'/>
+		<apps:property name='label' value='Classroom material'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001569320938553*3348559597299581821</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='from' value='khushpinder@iiitd.ac.in'/>
+		<apps:property name='hasTheWord' value='Amita Puri'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001597393704053*6485893095808178193</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='to:students {webinar, &quot;web seminar&quot;, &quot;math seminar&quot;, &quot;mathematics seminar&quot;, &quot;phd fellowship&quot;, &quot;research fellowship&quot;, &quot;seminar series&quot;}'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607406894861*7854953547807540647</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='from' value='pallavi@iiitd.ac.in'/>
+		<apps:property name='to' value='students@iiitd.ac.in'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;Dean&apos;s List&quot;, &quot;Foundation Day&quot;, &quot;foundations day&quot;, &quot;fms&quot;'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607407286435*6820736799012539508</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='from:{ravi@iiitd.ac.in, priti@iiitd.ac.in} {plasma, blood, donor, yoga}'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607407399862*2009756958626300647</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='from' value='binoj@iiitd.ac.in'/>
+		<apps:property name='doesNotHaveTheWord' value='&quot;marks&quot;'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607407665724*7094986052607671364</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='from:{kaushik@iiitd.ac.in, sdeb@iiitd.ac.in, shipra@iiitd.ac.in, incubation@iiitd.ac.in, wellbeing@iiitd.ac.in, manohar@iiitd.ac.in} to:students@iiitd.ac.in OR list:{&lt;btechcse2019.iiitd.ac.in&gt;, &lt;btechcse2018.iiitd.ac.in&gt;, &lt;btechcse2017.iiitd.ac.in&gt;, &lt;btechcse2016.iiitd.ac.in&gt;, &lt;btechcse2020.iiitd.ac.in&gt;}'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607408276274*9165860875859760860</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='from' value='rajivratn@iiitd.ac.in'/>
+		<apps:property name='hasTheWord' value='{ieee, research, thesis, acm}'/>
+		<apps:property name='doesNotHaveTheWord' value='menu, mess, lunch, shop'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001607410201717*2866611756072777056</id>
+		<updated>2020-12-08T07:04:09Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='from:{rajendra@iiitd.ac.in, library@iiitd.ac.in} to:students@iiitd.ac.in'/>
+		<apps:property name='doesNotHaveTheWord' value='credentials, login'/>
+		<apps:property name='label' value='Bleh'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
